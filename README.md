@@ -22,7 +22,7 @@ Den bestehenden Job öffnen oder einen neuen Job anlegen. Der **Job-Modus** blei
 
 >  **Managed by agent** bleibt die richtige Wahl: Der Agent auf dem Gerät führt die Sicherung selbstständig durch, auch wenn die Verbindung zum Backup-Server kurzzeitig nicht besteht.
 
-![Schritt 1 - Job Mode](images/01_job_mode.png)
+![Schritt 1 - Job Mode](images/1.png)
 
 ---
 
